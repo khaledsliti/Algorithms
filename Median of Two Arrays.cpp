@@ -2,7 +2,7 @@
 Author      Khaled Sliti
 Problem     Given two sorted arrays with equal lengths,
             find the median of the array obtained after merging two arrays.
-Complexity  Time    O(N log(N))
+Complexity  Time    O(log(N))
             Space   O(N)
 Solution    Divide-and-Conquer
 */
